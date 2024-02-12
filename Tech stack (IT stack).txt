@@ -1,0 +1,26 @@
+IT стек:
+-- Unix (FreeBSD, Solaris, OmniOS)
+-- Linux (RHEL, Oracle, Centos, Alma, Fedora) 
+-- Virtualization: VmWare ESX, bhyve, jail, OpenVZ, KVM, OpenShift, K8s
+-- Web servers и proxy: Nginx, Apache, TomCat, HAProxy, nghttpd, PfSense
+-- SQL DB: Oracle (7-21c), PostgreSQL (10.x-16.x), MySQL (5.7-8.x), MariaDB+Galera (5.7 - 11.x), Interbase, FireBird,  отличное знание SQL.
+-- NO SQL: Redis (7.x) + Sentinel, Cassandra, ScyllaDB
+-- Full text search: Sphinx search, Elasticsearch, OpenSearch
+-- MQ: RabbitMQ, Sonic MQ, Kafka
+-- ESB: Sonic ESB, WSO2 ESB
+-- ETL: Pentaho DI, WSO2 Integration Studio, Apache NiFi
+-- Logs: Rsyslog, Kibana
+-- GEO: OpenStreetMap, Mapnik, PostGis
+-- Reporting Systems: Crystal Reports, JasperReports, Power BI, Pentaho reporting
+-- AI, ML, NLP, NN: Matlab, Python (TensorFlow, Pytorch, SpaCy)
+-- Frameworks: Spring Boot, Spring, Laravel 9-10
+-- Программирую на: Java, PHP, C, C++, Matlab, Python, PL/SQL, PL/pgSQL, JS, Delphi.
+
+- SAP Power Designer, Sparx Enterprise Architect, Draw.io, PlantUML, Visio (нотации ER, IDEF, BPMN, UML).
+- Проектирование и тестирование API: Swagger (OpenAPI), Postman, SoapUI; протоколы: gRPC, SOAP, архитектура REST, описания XML и JSON, реализация на Java, PHP.
+- Jira, Confluence, Clear Case, Clear Quest, Git, Subversion, YouTrack, TimCity.
+- Разработка (программирование) на Java, Kotlin под Android и Swift под iOS.
+- Реализация и использование механизмов CI/CD (JB TeamCity, Ansible), практик DevOps;
+
+
+Всем вышеперечисленным владею на профессиональном уровне от установки/настройки до использования в реальных проектах.
